@@ -1,2 +1,2 @@
 # pothole_detection
-A CNN model that detects if there is a pothole in an image.
+You can download the dataset from [here](https://www.kaggle.com/atulyakumar98/pothole-detection-dataset?select=normal)
